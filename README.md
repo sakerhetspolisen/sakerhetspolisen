@@ -1,5 +1,8 @@
 ### Hi! I'm Karl Sellergren. 🤗
 #### I am a freelance web dev currently working with these projects:
+![Partikular](https://img.shields.io/badge/partikular-v.1.4-important)
+![Digital Ungdom](https://img.shields.io/badge/-Digital_Ungdom-informational)
+![Seller.green](https://img.shields.io/badge/-Seller.green-000)
 
 
 #### currently knowing these languages:
@@ -10,9 +13,9 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 #### and familiar with these technologies:
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-#### Please send me an e-mail @ karl@seller.green for work inquiries.
+#### Please send me an e-mail (karl@seller.green) for work inquiries.
