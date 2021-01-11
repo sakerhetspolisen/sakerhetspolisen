@@ -1,6 +1,6 @@
 ### Hi! I'm Karl Sellergren. 🤗
 #### I am a freelance web dev currently working with these projects:
-![Partikular](https://img.shields.io/badge/partikular-v.1.4-important)
+![Partikular](https://img.shields.io/badge/-Partikular-green)
 ![Digital Ungdom](https://img.shields.io/badge/-Digital_Ungdom-informational)
 ![Seller.green](https://img.shields.io/badge/-Seller.green-000)
 
