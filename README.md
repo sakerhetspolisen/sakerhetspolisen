@@ -1,11 +1,13 @@
-### Hi! I'm Karl Sellergren. 🤗
-#### I am a freelance web dev currently working with these projects:
-![Partikular](https://img.shields.io/badge/-Partikular-green)
-![Digital Ungdom](https://img.shields.io/badge/-Digital_Ungdom-informational)
-![Seller.green](https://img.shields.io/badge/-Seller.green-000)
+```
+________    ___________                                       
+__  ___/_______  /__  /__________________ ___________________ 
+_____ \_  _ \_  /__  /_  _ \_  ___/_  __ `/_  ___/  _ \_  __ \
+____/ //  __/  / _  / /  __/  /   _  /_/ /_  /   /  __/  / / /
+/____/ \___//_/  /_/  \___//_/    _\__, / /_/    \___//_/ /_/ 
+                                  /____/                      
+```
 
-
-#### currently knowing these languages:
+#### I am a freelance web dev currently knowing these languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
@@ -16,6 +18,3 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-#### Please send me an e-mail (karl@seller.green) for work inquiries.
